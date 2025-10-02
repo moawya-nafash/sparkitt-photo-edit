@@ -1,0 +1,15 @@
+2025-10-02 12:23:25,102 - INFO - تم العثور على 3 صورة
+2025-10-02 12:23:25,102 - INFO - بدء معالجة 3 صورة
+2025-10-02 12:23:26,409 - ERROR - خطأ في معالجة الصورة test_batch_images\test_2.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:23:26,410 - ERROR - خطأ في معالجة الصورة test_batch_images\test_1.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:23:26,422 - ERROR - خطأ في معالجة الصورة test_batch_images\test_3.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:23:26,475 - INFO - تمت معالجة 3 من 3 صورة
+2025-10-02 12:23:57,970 - INFO - تم العثور على 3 صورة
+2025-10-02 12:23:57,970 - INFO - بدء معالجة 3 صورة
+2025-10-02 12:23:57,981 - ERROR - خطأ في معالجة الصورة test_batch_images\test_2.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:23:57,981 - ERROR - خطأ في معالجة الصورة test_batch_images\test_1.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:23:57,990 - ERROR - خطأ في معالجة الصورة test_batch_images\test_3.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:23:57,991 - INFO - تمت معالجة 3 من 3 صورة
+2025-10-02 12:23:57,992 - INFO - تم حفظ النتائج في: test_batch_output\results.json
+2025-10-02 12:23:58,023 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:24:02,292 - ERROR - خطأ في معالجة الصورة test_batch_images\test_1.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>

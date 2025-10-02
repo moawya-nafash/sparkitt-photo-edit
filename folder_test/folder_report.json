@@ -1,0 +1,89 @@
+{
+  "directory": "folder_test",
+  "total_files": 10,
+  "total_size": 140,
+  "total_size_formatted": "140 B",
+  "generated_at": "2025-10-02T12:38:18.561874",
+  "files": [
+    {
+      "path": "test_0.txt",
+      "name": "test_0.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.555345",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_1.txt",
+      "name": "test_1.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.556346",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_2.txt",
+      "name": "test_2.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.556346",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_3.txt",
+      "name": "test_3.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.557351",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_4.txt",
+      "name": "test_4.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.558345",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_5.txt",
+      "name": "test_5.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.558345",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_6.txt",
+      "name": "test_6.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.559345",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_7.txt",
+      "name": "test_7.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.559345",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_8.txt",
+      "name": "test_8.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.560347",
+      "extension": ".txt"
+    },
+    {
+      "path": "test_9.txt",
+      "name": "test_9.txt",
+      "size": 14,
+      "size_formatted": "14 B",
+      "modified": "2025-10-02T12:38:18.560347",
+      "extension": ".txt"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+[
+  {
+    "image_path": "large_test_dataset\\test_image_0001.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.368428"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0003.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.369117"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0004.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.369332"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0002.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.369779"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0007.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.382057"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0005.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.382986"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0006.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.383390"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0008.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.383710"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0009.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.397226"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0010.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.397576"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0011.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.397864"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0012.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.401705"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0013.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.410182"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0015.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.410941"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0014.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.411431"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0016.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.423630"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0019.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.425241"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0018.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.425978"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0017.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.426520"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0023.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.441187"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0020.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.441492"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0022.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.441699"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0021.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.441932"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0026.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.456896"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0024.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.457453"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0027.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.457656"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0025.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.457818"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0030.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.471988"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0031.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.472301"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0028.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.472504"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0029.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.472630"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0035.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.484909"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0032.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.485317"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0034.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.487515"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0033.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.487943"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0036.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.499247"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0038.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.500729"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0037.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.501260"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0039.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.501525"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0043.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.513796"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0041.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.514377"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0040.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.514568"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0042.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.514723"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0047.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.529590"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0045.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.529887"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0046.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.530044"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0044.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.530277"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0049.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.542104"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0048.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.542197"
+  },
+  {
+    "image_path": "large_test_dataset\\test_image_0050.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:38:18.543196"
+  }
+]

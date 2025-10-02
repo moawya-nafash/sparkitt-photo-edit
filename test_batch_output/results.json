@@ -1,0 +1,23 @@
+[
+  {
+    "image_path": "test_batch_images\\test_2.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:23:57.981533"
+  },
+  {
+    "image_path": "test_batch_images\\test_1.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:23:57.981960"
+  },
+  {
+    "image_path": "test_batch_images\\test_3.png",
+    "status": "failed",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>",
+    "processing_time": 0,
+    "timestamp": "2025-10-02T12:23:57.990980"
+  }
+]

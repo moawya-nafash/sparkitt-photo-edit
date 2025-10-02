@@ -1,0 +1,1060 @@
+2025-10-02 12:38:18,338 - INFO - بدء معالجة 50 صورة مختارة
+2025-10-02 12:38:18,367 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0001.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,368 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0003.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,368 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0004.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,368 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0002.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,381 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0007.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,381 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0005.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,382 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0006.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,382 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0008.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,397 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0009.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,397 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0010.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,397 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0011.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,401 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0012.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,410 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0013.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,410 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0015.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,411 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0014.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,423 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0016.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,425 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0019.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,425 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0018.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,426 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0017.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,440 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0023.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,441 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0020.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,441 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0022.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,441 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0021.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,456 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0026.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,457 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0024.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,457 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0027.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,457 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0025.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,471 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0030.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,471 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0031.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,471 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0028.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,472 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0029.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,484 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0035.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,485 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0032.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,486 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0034.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,486 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0033.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,498 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0036.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,499 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0038.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,500 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0037.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,500 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0039.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,513 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0043.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,514 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0041.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,514 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0040.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,514 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0042.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,529 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0047.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,529 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0045.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,529 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0046.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,530 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0044.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,541 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0049.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,541 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0048.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,543 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0050.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:38:18,545 - INFO - تمت معالجة 50 من 50 صورة
+2025-10-02 12:38:18,546 - INFO - تم حفظ النتائج في: selective_output\selective_results.json
+2025-10-02 12:38:18,562 - INFO - تم إنشاء تقرير المجلد: folder_test\folder_report.json
+2025-10-02 12:38:18,563 - INFO - تم إنشاء مخطط هيكل المجلدات: folder_test\folder_diagram.txt
+2025-10-02 12:38:19,071 - INFO - تم تحسين الذاكرة: 0.9%
+2025-10-02 12:39:15,740 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:39:18,686 - INFO - بدء معالجة 50 صورة مختارة
+2025-10-02 12:39:18,717 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0059.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,717 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0003.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,717 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0023.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,717 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0071.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,729 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0100.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,731 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0094.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,731 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0050.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,732 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0044.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,745 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0002.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,746 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0028.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,746 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0067.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,749 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0012.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,761 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0045.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,761 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0089.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,761 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0092.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,762 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0083.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,776 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0077.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,777 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0078.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,777 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0095.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,777 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0068.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,791 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0055.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,792 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0032.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,792 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0049.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,792 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0001.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,808 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0047.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,808 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0022.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,810 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0033.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,820 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0020.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,826 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0011.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,837 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0013.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,853 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0008.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,870 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0085.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,872 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0024.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,877 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0005.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,886 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0009.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,887 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0075.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,895 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0091.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,945 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0029.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,955 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0070.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,961 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0072.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,972 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0081.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,972 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0052.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,978 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0017.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,980 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0064.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,986 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0080.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,987 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0086.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:18,994 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0046.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:19,009 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0026.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:19,011 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0027.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:19,012 - ERROR - خطأ في معالجة الصورة large_test_dataset\test_image_0097.png: 'charmap' codec can't encode characters in position 0-2: character maps to <undefined>
+2025-10-02 12:39:19,014 - INFO - تمت معالجة 50 من 50 صورة
+2025-10-02 12:45:43,545 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:02,177 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:03,053 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:03,420 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:03,593 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:12,848 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:13,269 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:13,577 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:46:15,081 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:47:03,658 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-10-02 12:47:12,760 - INFO - بدء معالجة 1933 صورة مختارة
+2025-10-02 12:47:16,947 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000000.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,006 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000001.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,050 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000002.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,114 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000003.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,178 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000004.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,242 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000005.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,288 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000006.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,351 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000007.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,415 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000008.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,479 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000009.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,544 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000010.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,590 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000011.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,653 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000012.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,717 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000013.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,788 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000014.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,844 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000015.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,908 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000016.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:17,955 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000017.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,029 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000018.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,081 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000019.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,128 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000020.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,206 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000021.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,255 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000022.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,317 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000023.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,380 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000024.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,444 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000025.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,519 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000026.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,572 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000027.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,667 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000028.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,731 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000029.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,792 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000030.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,855 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000031.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:18,926 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000032.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:19,010 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000033.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:19,199 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000034.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:19,324 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000035.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:19,497 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000036.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:19,637 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000037.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:19,825 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000038.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:19,889 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000039.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,031 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000040.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,204 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000041.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,460 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000042.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,553 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000043.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,626 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000044.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,674 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000045.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,737 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000046.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,800 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000047.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,846 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000048.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,889 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000049.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,944 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000050.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:20,988 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000051.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,036 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000052.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,156 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000053.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,206 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000054.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,253 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000055.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,300 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000056.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,380 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000057.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,439 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000058.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,491 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000059.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,586 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000060.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,634 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000061.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,699 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000062.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,743 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000063.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,791 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000064.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,837 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000065.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,899 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000066.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:21,976 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000067.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:22,024 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000068.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:22,072 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000069.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:22,230 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000070.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:22,495 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000071.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:22,863 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000072.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,148 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000073.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,287 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000074.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,381 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000075.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,424 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000076.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,490 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000077.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,538 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000078.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,656 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000079.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,697 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000080.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,747 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000081.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,790 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000082.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,835 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000083.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,881 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000084.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:23,919 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000085.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,011 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000086.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,107 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000087.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,156 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000088.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,202 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000089.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,249 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000090.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,294 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000091.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,341 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000092.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,389 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000093.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,437 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000094.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,512 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000095.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,555 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000096.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,605 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000097.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,654 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000098.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,733 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000099.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:24,986 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000100.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,128 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000101.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,189 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000102.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,302 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000103.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,377 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000104.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,443 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000105.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,492 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000106.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,554 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000107.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:25,729 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000108.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:26,132 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000109.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:26,230 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000110.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:26,274 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000111.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:26,318 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000112.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:27,418 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000113.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:27,794 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000114.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:27,829 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000115.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:27,877 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000116.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:27,924 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000117.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:27,972 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000118.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,019 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000119.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,066 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000120.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,110 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000121.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,144 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000122.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,190 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000123.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,237 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000124.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,284 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000125.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,394 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000126.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,466 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000127.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,591 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000128.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:28,676 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000129.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,193 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000130.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,434 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000131.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,546 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000132.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,592 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000133.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,639 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000134.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,679 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000135.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,734 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000136.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:29,779 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000137.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,042 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000138.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,126 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000139.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,236 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000140.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,409 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000141.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,488 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000142.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,650 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000143.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,803 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000144.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,898 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000145.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:30,945 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000146.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:31,055 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000147.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:33,375 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000148.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:40,852 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000149.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:40,937 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000150.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,031 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000151.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,074 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000152.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,109 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000153.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,158 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000154.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,203 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000155.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,244 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000156.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,329 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000157.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,377 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000158.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,422 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000159.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,454 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000160.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,709 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000161.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,710 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000162.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,713 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000163.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,715 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000164.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,715 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000165.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,740 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000166.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,786 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000167.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,876 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000168.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,914 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000169.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,959 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000170.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:41,993 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000171.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,040 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000172.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,089 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000173.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,137 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000174.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,184 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000175.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,279 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000176.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,324 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000177.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,371 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000178.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,418 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000179.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,461 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000180.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,559 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000181.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,639 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000182.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,685 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000183.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,774 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000184.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,810 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000185.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,857 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000186.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,907 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000187.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,950 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000188.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:42,995 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000189.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,074 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000190.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,106 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000191.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,156 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000192.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,200 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000193.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,245 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000194.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,279 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000195.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,338 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000196.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,373 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000197.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,493 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000198.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,540 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000199.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,584 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000200.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,624 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000201.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,669 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000202.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,714 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000203.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,757 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000204.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,803 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000205.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,841 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000206.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,885 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000207.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:43,921 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000208.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,057 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000209.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,099 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000210.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,188 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000211.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,256 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000212.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,345 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000213.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,408 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000214.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,454 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000215.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,528 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000216.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,580 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000217.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,944 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000218.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,944 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000219.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,944 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000220.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:44,944 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000221.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:45,019 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000222.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:45,128 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000223.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:45,286 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000224.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:45,398 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000225.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:45,711 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000226.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:45,872 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000227.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:45,966 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000228.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:46,082 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000229.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:46,125 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000230.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:46,224 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000231.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:53,984 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000232.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,215 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000233.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,215 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000234.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,358 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000235.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,364 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000236.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,364 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000237.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,367 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000238.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,367 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000239.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,370 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000240.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,370 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000241.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,370 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000242.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,373 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000243.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,373 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000244.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,373 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000245.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,375 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000246.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,395 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000247.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,614 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000248.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,731 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000249.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,771 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000250.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,821 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000251.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,866 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000252.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,912 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000253.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:55,960 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000254.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,005 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000255.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,041 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000256.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,087 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000257.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,135 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000258.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,184 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000259.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,308 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000260.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,354 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000261.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,401 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000262.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,453 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000263.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,496 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000264.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,659 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000265.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,717 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000266.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,762 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000267.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,808 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000268.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,844 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000269.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,892 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000270.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:56,939 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000271.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,002 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000272.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,050 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000273.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,163 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000274.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,208 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000275.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,301 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000276.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,348 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000277.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,395 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000278.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,444 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000279.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,632 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000280.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,680 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000281.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,724 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000282.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,760 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000283.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,814 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000284.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,853 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000285.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,900 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000286.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,949 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000287.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:57,994 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000288.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,058 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000289.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,105 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000290.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,152 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000291.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,200 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000292.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,250 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000293.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,296 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000294.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,341 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000295.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,388 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000296.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,435 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000297.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,480 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000298.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,515 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000299.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,562 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000300.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,610 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000301.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,656 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000302.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,707 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000303.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,751 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000304.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,829 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000305.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,877 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000306.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,931 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000307.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:58,971 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000308.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,019 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000309.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,162 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000310.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,205 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000311.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,316 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000312.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,351 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000313.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,397 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000314.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,445 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000315.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,491 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000316.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,554 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000317.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,613 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000318.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,649 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000319.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,697 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000320.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,745 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000321.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,794 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000322.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,841 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000323.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,883 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000324.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,918 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000325.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:47:59,966 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000326.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,013 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000327.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,060 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000328.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,107 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000329.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,155 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000330.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,203 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000331.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,247 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000332.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,282 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000333.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,329 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000334.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,376 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000335.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,423 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000336.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,470 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000337.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,517 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000338.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,570 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000339.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,612 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000340.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,659 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000341.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,704 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000342.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,828 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000343.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,907 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000344.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:00,968 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000345.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,029 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000346.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,126 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000347.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,173 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000348.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,221 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000349.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,268 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000350.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,316 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000351.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,462 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000352.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,568 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000353.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,615 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000354.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,662 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000355.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,710 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000356.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,758 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000357.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,805 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000358.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:01,916 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000359.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,010 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000360.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,069 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000361.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,211 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000362.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,245 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000363.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,303 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000364.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,391 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000365.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,434 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000366.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,483 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000367.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,531 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000368.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,641 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000369.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,690 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000370.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,739 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000371.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,784 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000372.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,829 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000373.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,875 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000374.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,920 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000375.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:02,971 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000376.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,019 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000377.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,066 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000378.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,129 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000379.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,175 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000380.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,223 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000381.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,286 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000382.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,334 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000383.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,383 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000384.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,428 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000385.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,509 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000386.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,602 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000387.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,651 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000388.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,728 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000389.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,781 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000390.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,825 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000391.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,869 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000392.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,914 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000393.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:03,958 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000394.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,037 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000395.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,092 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000396.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,205 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000397.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,311 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000398.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,422 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000399.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,488 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000400.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,534 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000401.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,581 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000402.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,629 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000403.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,678 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000404.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,724 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000405.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,770 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000406.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,815 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000407.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,877 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000408.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,912 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000409.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:04,971 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000410.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,020 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000411.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,067 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000412.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,114 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000413.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,159 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000414.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,194 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000415.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,241 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000416.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,288 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000417.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,435 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000418.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,479 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000419.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,528 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000420.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,605 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000421.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,636 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000422.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,780 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000423.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,825 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000424.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,873 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000425.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,920 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000426.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:05,985 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000427.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,031 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000428.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,078 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000429.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,125 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000430.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,173 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000431.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,220 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000432.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,269 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000433.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,315 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000434.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,362 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000435.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,409 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000436.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,488 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000437.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,520 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000438.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,597 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000439.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,641 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000440.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,676 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000441.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,754 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000442.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,801 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000443.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,896 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000444.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:06,990 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000445.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,036 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000446.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,085 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000447.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,131 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000448.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,175 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000449.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,224 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000450.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,269 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000451.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,315 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000452.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,350 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000453.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,397 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000454.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,444 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000455.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,491 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000456.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,546 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000457.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,584 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000458.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,643 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000459.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,713 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000460.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,757 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000461.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,806 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000462.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,853 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000463.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:07,982 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000464.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,041 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000465.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,088 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000466.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,135 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000467.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,215 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000468.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,263 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000469.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,340 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000470.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,373 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000471.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,436 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000472.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,499 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000473.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,558 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000474.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,602 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000475.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,640 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000476.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,688 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000477.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,737 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000478.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,803 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000479.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,848 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000480.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,893 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000481.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:08,954 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000482.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,000 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000483.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,129 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000484.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,192 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000485.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,319 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000486.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,397 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000487.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,443 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000488.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,490 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000489.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,546 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000490.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,583 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000491.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,629 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000492.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,676 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000493.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,724 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000494.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,816 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000495.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,863 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000496.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,908 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000497.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,955 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000498.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:09,992 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000499.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,055 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000500.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,117 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000501.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,165 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000502.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,211 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000503.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,275 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000504.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,322 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000505.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,398 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000506.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,432 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000507.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,479 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000508.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,527 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000509.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,573 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000510.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,699 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000511.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,746 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000512.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,793 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000513.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,840 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000514.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,932 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000515.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:10,982 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000516.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,046 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000517.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,098 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000518.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,147 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000519.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,184 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000520.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,231 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000521.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,312 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000522.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,354 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000523.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,387 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000524.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,434 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000525.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,481 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000526.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,528 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000527.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,639 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000528.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,684 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000529.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,727 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000530.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,781 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000531.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,829 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000532.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,866 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000533.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,906 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000534.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,953 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000535.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:11,996 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000536.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,042 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000537.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,078 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000538.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,125 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000539.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,173 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000540.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,219 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000541.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,265 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000542.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,306 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000543.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,351 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000544.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,421 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000545.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,484 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000546.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,532 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000547.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,577 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000548.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,622 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000549.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,664 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000550.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,703 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000551.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,751 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000552.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,794 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000553.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,830 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000554.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,877 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000555.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,922 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000556.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:12,955 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000557.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,000 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000558.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,183 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000559.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,253 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000560.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,301 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000561.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,348 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000562.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,397 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000563.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,521 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000564.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,622 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000565.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,663 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000566.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,710 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000567.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,758 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000568.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,805 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000569.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,884 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000570.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:13,947 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000571.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:14,009 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000572.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:14,087 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000573.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:14,165 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000574.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:14,371 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000575.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:14,527 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000576.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:14,773 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000577.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:14,984 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000578.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,297 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000579.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,424 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000580.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,486 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000581.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,533 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000582.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,593 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000583.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,628 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000584.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,676 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000585.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,750 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000586.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,829 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000587.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,876 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000588.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,919 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000589.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:15,960 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000590.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,010 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000591.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,208 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000592.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,259 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000593.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,320 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000594.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,368 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000595.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,416 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000596.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,498 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000597.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,544 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000598.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,589 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000599.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,637 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000600.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,683 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000601.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,730 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000602.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,777 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000603.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,824 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000604.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,903 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000605.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:16,950 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000606.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,043 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000607.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,077 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000608.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,213 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000609.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,316 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000610.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,394 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000611.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,507 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000612.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,617 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000613.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,756 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000614.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,809 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000615.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,857 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000616.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,906 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000617.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:17,953 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000618.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,001 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000619.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,048 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000620.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,095 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000621.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,143 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000622.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,190 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000623.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,285 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000624.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,333 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000625.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,381 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000626.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,427 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000627.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,522 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000628.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,569 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000629.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,616 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000630.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,665 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000631.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,711 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000632.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,758 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000633.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,807 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000634.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,855 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000635.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,902 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000636.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,949 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000637.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:18,996 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000638.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,030 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000639.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,077 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000640.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,135 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000641.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,172 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000642.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,220 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000643.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,268 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000644.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,316 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000645.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,428 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000646.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,538 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000647.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,697 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000648.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,873 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000649.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,918 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000650.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:19,981 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000651.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,028 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000652.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,092 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000653.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,185 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000654.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,233 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000655.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,280 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000656.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,327 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000657.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,387 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000658.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,441 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000659.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,515 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000660.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,593 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000661.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,655 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000662.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,794 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000663.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:20,906 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000664.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,050 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000665.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,125 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000666.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,219 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000667.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,346 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000668.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,469 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000669.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,537 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000670.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,662 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000671.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,743 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000672.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:21,900 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000673.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,073 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000674.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,259 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000675.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,338 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000676.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,511 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000677.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,683 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000678.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,824 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000679.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,885 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000680.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,934 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000681.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:22,998 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000682.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,075 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000683.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,138 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000684.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,201 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000685.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,279 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000686.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,358 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000687.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,438 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000688.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,497 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000689.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,546 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000690.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,609 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000691.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,690 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000692.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,796 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000693.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,866 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000694.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,928 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000695.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:23,992 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000696.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,071 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000697.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,134 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000698.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,198 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000699.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,292 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000700.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,388 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000701.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,465 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000702.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,537 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000703.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,592 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000704.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,701 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000705.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,781 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000706.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:24,891 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000707.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,018 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000708.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,161 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000709.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,256 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000710.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,351 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000711.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,476 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000712.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,571 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000713.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,680 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000714.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,823 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000715.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:25,952 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000716.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,029 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000717.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,109 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000718.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,236 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000719.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,314 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000720.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,409 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000721.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,613 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000722.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,706 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000723.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:26,833 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000724.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,007 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000725.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,133 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000726.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,234 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000727.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,308 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000728.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,385 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000729.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,464 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000730.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,544 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000731.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,623 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000732.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,719 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000733.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,779 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000734.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,859 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000735.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:27,953 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000736.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,032 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000737.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,144 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000738.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,255 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000739.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,386 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000740.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,444 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000741.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,507 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000742.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,586 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000743.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,649 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000744.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,706 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000745.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,757 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000746.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:28,853 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000747.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,012 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000748.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,058 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000749.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,107 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000750.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,153 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000751.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,285 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000752.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,375 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000753.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,423 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000754.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,471 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000755.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,518 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000756.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,565 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000757.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,728 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000758.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:29,790 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000759.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,069 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000760.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,166 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000761.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,203 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000762.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,250 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000763.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,361 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000764.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,472 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000765.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,519 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000766.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,612 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000767.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,775 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000768.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,820 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000769.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,864 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000770.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:30,910 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000771.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,019 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000772.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,055 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000773.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,161 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000774.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,305 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000775.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,417 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000776.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,568 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000777.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,606 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000778.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,655 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000779.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,700 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000780.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,734 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000781.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,906 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000782.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:31,989 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000783.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,098 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000784.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,269 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000785.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,331 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000786.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,394 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000787.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,487 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000788.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,532 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000789.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,567 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000790.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,615 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000791.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,663 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000792.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,706 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000793.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,749 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000794.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,786 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000795.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,833 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000796.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,881 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000797.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:32,956 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000798.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,004 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000799.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,097 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000800.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,143 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000801.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,252 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000802.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,325 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000803.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,370 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000804.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,408 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000805.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,455 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000806.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,653 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000807.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,745 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000808.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,860 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000809.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:33,988 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000810.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,033 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000811.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,119 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000812.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,236 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000813.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,284 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000814.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,361 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000815.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,408 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000816.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,455 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000817.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,534 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000818.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,659 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000819.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,708 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000820.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,796 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000821.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,856 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000822.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:34,963 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000823.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,006 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000824.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,113 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000825.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,206 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000826.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,251 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000827.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,315 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000828.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,359 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000829.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,408 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000830.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,551 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000831.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,610 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000832.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,768 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000833.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,815 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000834.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,858 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000835.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:35,897 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000836.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,035 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000837.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,112 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000838.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,208 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000839.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,316 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000840.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,459 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000841.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,570 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000842.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,634 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000843.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,698 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000844.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,811 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000845.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:36,872 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000846.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:37,030 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000847.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:37,089 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000848.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:37,169 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000849.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:37,450 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000850.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:37,644 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000851.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:37,712 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000852.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:37,868 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000853.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:38,309 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000854.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:48:43,976 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000855.jpg: Couldn't open shared file mapping: <torch_19984_4120107118_9768>, error code: <1455>
+2025-10-02 12:48:45,035 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000856.jpg: Couldn't open shared file mapping: <torch_19984_1809295160_9769>, error code: <1455>
+2025-10-02 12:48:46,074 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000857.jpg: Couldn't open shared file mapping: <torch_19984_1406946691_9773>, error code: <1455>
+2025-10-02 12:48:47,125 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000858.jpg: Couldn't open shared file mapping: <torch_19984_705790975_9774>, error code: <1455>
+2025-10-02 12:48:48,150 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000859.jpg: Couldn't open shared file mapping: <torch_19984_998556501_9775>, error code: <1455>
+2025-10-02 12:48:49,199 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000860.jpg: Couldn't open shared file mapping: <torch_19984_1947390896_9776>, error code: <1455>
+2025-10-02 12:48:50,229 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000861.jpg: Couldn't open shared file mapping: <torch_19984_86773912_9777>, error code: <1455>
+2025-10-02 12:48:51,253 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000862.jpg: Couldn't open shared file mapping: <torch_19984_2977034301_9778>, error code: <1455>
+2025-10-02 12:48:52,282 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000863.jpg: Couldn't open shared file mapping: <torch_19984_148191969_9779>, error code: <1455>
+2025-10-02 12:48:53,314 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000864.jpg: Couldn't open shared file mapping: <torch_19984_951652604_9780>, error code: <1455>
+2025-10-02 12:48:54,345 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000865.jpg: Couldn't open shared file mapping: <torch_19984_417587583_9781>, error code: <1455>
+2025-10-02 12:48:55,370 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000866.jpg: Couldn't open shared file mapping: <torch_19984_207418541_9782>, error code: <1455>
+2025-10-02 12:48:57,397 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000867.jpg: Couldn't open shared file mapping: <torch_19984_2921252130_9783>, error code: <1455>
+2025-10-02 12:49:02,484 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000868.jpg: Couldn't open shared file mapping: <torch_19984_4290275830_9784>, error code: <1455>
+2025-10-02 12:49:03,499 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000869.jpg: 
+2025-10-02 12:49:05,528 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000870.jpg: Couldn't open shared file mapping: <torch_19984_3846377005_9785>, error code: <1455>
+2025-10-02 12:49:06,545 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000871.jpg: Couldn't open shared file mapping: <torch_19984_624337673_9786>, error code: <1455>
+2025-10-02 12:49:07,561 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000872.jpg: Couldn't open shared file mapping: <torch_19984_1421913632_9787>, error code: <1455>
+2025-10-02 12:49:09,591 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000873.jpg: Couldn't open shared file mapping: <torch_19984_2414842888_9788>, error code: <1455>
+2025-10-02 12:49:11,636 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000874.jpg: Couldn't open shared file mapping: <torch_19984_2423574261_9789>, error code: <1455>
+2025-10-02 12:49:12,671 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000875.jpg: Couldn't open shared file mapping: <torch_19984_1399465147_9790>, error code: <1455>
+2025-10-02 12:49:13,708 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000876.jpg: Couldn't open shared file mapping: <torch_19984_749220533_9791>, error code: <1455>
+2025-10-02 12:49:13,742 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000877.jpg: Couldn't open shared file mapping: <torch_19984_520525520_9792>, error code: <1455>
+2025-10-02 12:49:14,783 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000878.jpg: Couldn't open shared file mapping: <torch_19984_2095985992_9793>, error code: <1455>
+2025-10-02 12:49:15,823 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000879.jpg: Couldn't open shared file mapping: <torch_19984_581278844_9794>, error code: <1455>
+2025-10-02 12:49:17,864 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000880.jpg: Couldn't open shared file mapping: <torch_19984_3980588794_9795>, error code: <1455>
+2025-10-02 12:49:18,921 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000881.jpg: Couldn't open shared file mapping: <torch_19984_2453641614_9796>, error code: <1455>
+2025-10-02 12:49:20,955 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000882.jpg: Couldn't open shared file mapping: <torch_19984_4086585317_9797>, error code: <1455>
+2025-10-02 12:49:22,021 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000883.jpg: Couldn't open shared file mapping: <torch_19984_1257410821_9798>, error code: <1455>
+2025-10-02 12:49:23,078 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000884.jpg: Couldn't open shared file mapping: <torch_19984_2249701534_9799>, error code: <1455>
+2025-10-02 12:49:24,108 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000885.jpg: Couldn't open shared file mapping: <torch_19984_29813005_9800>, error code: <1455>
+2025-10-02 12:49:24,149 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000886.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:24,193 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000887.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:24,228 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000888.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:25,281 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000889.jpg: Couldn't open shared file mapping: <torch_19984_389165246_9835>, error code: <1455>
+2025-10-02 12:49:26,308 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000890.jpg: Couldn't open shared file mapping: <torch_19984_2765896353_9836>, error code: <1455>
+2025-10-02 12:49:27,349 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000891.jpg: Couldn't open shared file mapping: <torch_19984_732650937_9837>, error code: <1455>
+2025-10-02 12:49:29,402 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000892.jpg: Couldn't open shared file mapping: <torch_19984_2008049806_9838>, error code: <1455>
+2025-10-02 12:49:29,417 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000893.jpg: Couldn't open shared file mapping: <torch_19984_3909568560_9839>, error code: <1455>
+2025-10-02 12:49:30,451 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000894.jpg: Couldn't open shared file mapping: <torch_19984_2525520361_9840>, error code: <1455>
+2025-10-02 12:49:31,499 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000895.jpg: Couldn't open shared file mapping: <torch_19984_316663619_9841>, error code: <1455>
+2025-10-02 12:49:32,540 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000896.jpg: Couldn't open shared file mapping: <torch_19984_1125956062_9842>, error code: <1455>
+2025-10-02 12:49:33,572 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000897.jpg: Couldn't open shared file mapping: <torch_19984_4282448807_9843>, error code: <1455>
+2025-10-02 12:49:34,595 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000898.jpg: Couldn't open shared file mapping: <torch_19984_3142865513_9844>, error code: <1455>
+2025-10-02 12:49:36,619 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000899.jpg: Couldn't open shared file mapping: <torch_19984_2529682715_9845>, error code: <1455>
+2025-10-02 12:49:36,641 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000900.jpg: Couldn't open shared file mapping: <torch_19984_1811543895_9846>, error code: <1455>
+2025-10-02 12:49:38,668 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000901.jpg: Couldn't open shared file mapping: <torch_19984_2367724204_9847>, error code: <1455>
+2025-10-02 12:49:41,737 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000902.jpg: Couldn't open shared file mapping: <torch_19984_2437254544_9848>, error code: <1455>
+2025-10-02 12:49:42,761 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000903.jpg: Couldn't open shared file mapping: <torch_19984_498641833_9849>, error code: <1455>
+2025-10-02 12:49:45,812 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000904.jpg: Couldn't open shared file mapping: <torch_19984_474722908_9850>, error code: <1455>
+2025-10-02 12:49:48,891 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000905.jpg: Couldn't open shared file mapping: <torch_19984_1418324136_9851>, error code: <1455>
+2025-10-02 12:49:50,957 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000906.jpg: Couldn't open shared file mapping: <torch_19984_522664844_9852>, error code: <1455>
+2025-10-02 12:49:50,989 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000907.jpg: Couldn't open shared file mapping: <torch_19984_1700052285_9853>, error code: <1455>
+2025-10-02 12:49:52,011 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000908.jpg: Couldn't open shared file mapping: <torch_19984_1656162133_9854>, error code: <1455>
+2025-10-02 12:49:53,054 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000909.jpg: Couldn't open shared file mapping: <torch_19984_2493601885_9855>, error code: <1455>
+2025-10-02 12:49:54,092 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000910.jpg: Couldn't open shared file mapping: <torch_19984_3890321777_9856>, error code: <1455>
+2025-10-02 12:49:55,125 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000911.jpg: Couldn't open shared file mapping: <torch_19984_1208282058_9857>, error code: <1455>
+2025-10-02 12:49:55,242 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000912.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:56,285 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000913.jpg: Couldn't open shared file mapping: <torch_19984_1484534556_9869>, error code: <1455>
+2025-10-02 12:49:56,332 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000914.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:56,411 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000915.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:56,458 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000916.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:56,552 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000917.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:56,855 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000918.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:57,059 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000919.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:57,330 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000920.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:57,581 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000921.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:57,708 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000922.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:57,773 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000923.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:57,928 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000924.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,036 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000925.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,084 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000926.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,197 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000927.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,259 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000928.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,307 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000929.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,354 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000930.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,401 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000931.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,443 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000932.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,492 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000933.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,544 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000934.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,589 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000935.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,624 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000936.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,672 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000937.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,765 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000938.jpg: cannot pickle '_tkinter.tkapp' object
+2025-10-02 12:49:58,859 - ERROR - خطأ في معالجة A:\EEG record\abood\photo\frame_000939.jpg: cannot pickle '_tkinter.tkapp' object
